@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.about {
+    margin: 20px;
+}
+
+p {
+    line-height: 1.5;
+}
+
+b {
+    color: #0077c9;
+}
+
